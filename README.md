@@ -1,2 +1,2 @@
-#### tabs-react98
+# tabs-react98
 https://tabs-react98.netlify.app/
